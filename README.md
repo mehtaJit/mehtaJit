@@ -7,7 +7,7 @@
 ---
 
 ### Certifications
-[<img src="https://github.com/karenwky/karenwky/blob/main/img/llmagentsf24_certificate_no74.png" width="70"></img>](https://learn.microsoft.com/en-us/users/jitesh-9579/credentials/c255ddf1b0804149)
+[<img src="https://learn.microsoft.com/en-gb/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="70"></img>](https://learn.microsoft.com/en-us/users/jitesh-9579/credentials/c255ddf1b0804149)
 
 ---
 
